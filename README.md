@@ -1,7 +1,6 @@
 ### Olá, eu sou Ilky André 👋
 
-- 🔭 Atualmente trabalho como suporte de sistema ERP(Winthor) e sou desenvolvedor com foco no front-end.
-- 🌱 Estudando React.
+- 🔭 Atualmente trabalho como suporte de sistema ERP(Winthor) e sou desenvolvedor front-end.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifilky&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
