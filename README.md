@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho como suporte de sistema ERP(Winthor) e sou desenvolvedor front-end.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifilky&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
   <a href="https://instagram.com/ilkyandrerl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
